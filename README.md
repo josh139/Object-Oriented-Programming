@@ -5,9 +5,7 @@ The details for the implementation of the system are given in the steps below:
 
 1. Design and implement classes SportsClub (abstract class), FootballClub. The classes should include appropriate methods and hold information about the name of the club, its location and various statistics about the club. FootballClub should include statistics such as how many wins, draws and defeats an instance of it has achieved in the season, and the number of goals received and scored. The number of points that a club currently has, and the number of matches played should also be included.
 
-2. Implement a class PremierLeagueManager which extends interface LeagueManager. The PremierLeagueManager class maintains a number of football clubs which play in the premier league. The class should create a menu based on text input and give the user the
-
-choice of:
+2. Implement a class PremierLeagueManager which extends interface LeagueManager. The PremierLeagueManager class maintains a number of football clubs which play in the premier league. The class should create a menu based on text input and give the user the choice of:
 
 - Create a new football club and add it in the premier league.
 - Delete (relegate) an existing football club from the premier league.
